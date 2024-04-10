@@ -1,0 +1,7 @@
+compatibility_date = "2024-04-10"
+name = "placeholder-api-2"
+
+[vars]
+REDIS_URL = "https://romantic-aphid-32446.upstash.io"
+REDIS_TOKEN = "AX6-ASQgYTBlMTNiMGYtOTdmZS00OTJlLWEwMmYtN2M4NWVlYzZkODM5NGRlZmJhM2YzNzlhNGZhMmFlMjM5YzMxZDkzMjlkYWM="
+
